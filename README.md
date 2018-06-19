@@ -13,3 +13,9 @@ Object detection through classification using Haar Cascade (Haar Feature-based C
 - Jupyter Notebook
 - Python Programming Tutorials [website](https://pythonprogramming.net)
 - Image Net [website](http://image-net.org)
+
+### Seed Image for Positives
+
+![alt text][seed]
+
+[seed]: https://github.com/laoliveira/Rubiks-Cube-Detection/blob/master/rubik.png "Positive image"
