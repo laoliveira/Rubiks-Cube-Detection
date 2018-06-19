@@ -11,8 +11,10 @@ Object detection through classification using Haar Cascade (Haar Feature-based C
 - OpenCV
 - Python 3
 - Jupyter Notebook
-- Python Programming Tutorials [website](https://pythonprogramming.net)
-- Image Net [website](http://image-net.org)
+- Python Programming Tutorials [link](https://pythonprogramming.net)
+- Image Net [link](http://image-net.org)
+- OpenCV Face Detection [link](https://docs.opencv.org/3.4.1/d7/d8b/tutorial_py_face_detection.html)
+- OpenCV Documentation for Haar Cascade [link](https://docs.opencv.org/2.4/doc/user_guide/ug_traincascade.html)
 
 ### Seed Image for Positives
 
