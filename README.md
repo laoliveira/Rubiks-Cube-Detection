@@ -23,4 +23,4 @@ Object detection through classification using Haar Cascade (Haar Feature-based C
 [seed]: https://github.com/laoliveira/Rubiks-Cube-Detection/blob/master/rubik.png "Positive image"
 
 ### Considerations
-Because only one seed image was used, and the number of training images is small, the classifier is not 100% accurate. Room brightness and background can cause lead to wrongful detection.
+Because only one seed image was used, and the number of training images is small, the classifier is not 100% accurate. Room brightness and background can lead to wrongful detection.
