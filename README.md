@@ -1,5 +1,5 @@
 # Rubik's Cube Detection with Haar Cascade Algorithm
-Object detection through classification using Haar Cascade (Haar Feature-based Cascade) algorithm to detect a Rubik's Cube through a webcam.
+Object detection with classification using Haar Cascade (Haar Feature-based Cascade) algorithm to detect a Rubik's Cube through a webcam.
 
 ### General Information
 - Training time: 2 hours and 5 minutes
